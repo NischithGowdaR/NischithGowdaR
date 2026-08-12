@@ -28,14 +28,14 @@
 #### 💻 Programming Languages & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,go,dart,html,css,react,nextjs,flutter,nodejs,express,django,fastapi,flask,tailwind,bootstrap,materialui" alt="Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,py" alt="Programming Languages" />
   </a>
 </p>
 
 #### 🗄️ Databases, Cloud & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,supabase,firebase,aws,azure,gcp,docker,vercel,netlify,heroku" alt="Databases & Cloud" />
+    <img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,mysql" alt="Databases" />
   </a>
 </p>
 
