@@ -28,7 +28,7 @@
 #### 💻 Programming Languages & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,py" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,py" alt="Programming Languages & Frameworks" />
   </a>
 </p>
 
