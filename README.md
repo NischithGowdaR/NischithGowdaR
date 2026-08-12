@@ -51,12 +51,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=NischithGowdaR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nischith's GitHub Stats" />
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NischithGowdaR&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="97%" src="https://streak-stats.demolab.com/?user=NischithGowdaR&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=NischithGowdaR&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=NischithGowdaR&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
