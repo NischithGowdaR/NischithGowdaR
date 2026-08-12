@@ -51,6 +51,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img width="97%" src="https://ghstats.dev/api/card?username=NischithGowdaR&theme=tokyonight" alt="Nischith's GitHub Profile Stats" />
+</p>
+
+<p align="center">
   <img width="97%" src="https://streak-stats.demolab.com/?user=NischithGowdaR&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
